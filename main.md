@@ -18,7 +18,7 @@ The path to realize the vision will be enable through four workstreams
 namely the Think Tank, Innovation Zone, Industry Development and Market Development 
 through interactions within OGA as well as the global related ecosystem. 
 
-[Grid high-level illustration](Grid_highlevel_illustration.svg)
+![Grid high-level illustration](Grid_highlevel_illustration.svg)
 
 # The Grid
 The Open Grid is the inevitable evolution of the internet. 
